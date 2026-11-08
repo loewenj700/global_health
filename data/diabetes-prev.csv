@@ -1,0 +1,526 @@
+iso3,country,year,value
+AFE,Africa Eastern and Southern,2024,6.45404408992017
+AFE,Africa Eastern and Southern,2011,4.58905122803024
+AFW,Africa Western and Central,2024,4.2177974374383
+AFW,Africa Western and Central,2011,4.41587371659126
+ARB,Arab World,2024,17.2973017268651
+ARB,Arab World,2011,11.9445447415724
+CSS,Caribbean small states,2024,12.9741084825892
+CSS,Caribbean small states,2011,12.5856762564925
+CEB,Central Europe and the Baltics,2024,7.87080652268354
+CEB,Central Europe and the Baltics,2011,7.48207256335255
+EAR,Early-demographic dividend,2024,12.3020103575019
+EAR,Early-demographic dividend,2011,8.80140777050447
+EAS,East Asia & Pacific,2024,10.8651891442221
+EAS,East Asia & Pacific,2011,8.02490678606455
+EAP,East Asia & Pacific (excluding high income),2024,11.1353659963515
+EAP,East Asia & Pacific (excluding high income),2011,8.07097570862458
+TEA,East Asia & Pacific (IDA & IBRD countries),2024,11.1509213612865
+TEA,East Asia & Pacific (IDA & IBRD countries),2011,8.06684253632877
+EMU,Euro area,2024,7.56051060653856
+EMU,Euro area,2011,5.67045797789449
+ECS,Europe & Central Asia,2024,7.99502480843386
+ECS,Europe & Central Asia,2011,6.54443202236628
+ECA,Europe & Central Asia (excluding high income),2024,10.5191770154712
+ECA,Europe & Central Asia (excluding high income),2011,5.96867339247017
+TEC,Europe & Central Asia (IDA & IBRD countries),2024,8.64258578933349
+TEC,Europe & Central Asia (IDA & IBRD countries),2011,7.59013298809859
+EUU,European Union,2024,7.562985196941
+EUU,European Union,2011,6.01744173074927
+FCV,"Fragility, Conflict, and Violence (FCV) situations",2024,7.24352998190743
+FCV,"Fragility, Conflict, and Violence (FCV) situations",2011,6.17645115782837
+HPC,Heavily indebted poor countries (HIPC),2024,6.61116701514905
+HPC,Heavily indebted poor countries (HIPC),2011,4.34195003223281
+,High income,2024,9.72828519399888
+,High income,2011,7.97810346491069
+IBD,IBRD only,2024,11.0827255920625
+IBD,IBRD only,2011,8.77358205507259
+IBT,IDA & IBRD total,2024,10.910342158404
+IBT,IDA & IBRD total,2011,8.23114165514152
+IDB,IDA blend,2024,14.6088008639666
+IDB,IDA blend,2011,6.44517702169862
+IDX,IDA only,2024,8.1059570912486
+IDX,IDA only,2011,5.94305580479714
+IDA,IDA total,2024,10.3544735635583
+IDA,IDA total,2011,6.12163285416566
+LTE,Late-demographic dividend,2024,10.93062914623
+LTE,Late-demographic dividend,2011,8.75082047069947
+LCN,Latin America & Caribbean,2024,11.3098941545388
+LCN,Latin America & Caribbean,2011,10.2707067382556
+LAC,Latin America & Caribbean (excluding high income),2024,11.3094933128497
+LAC,Latin America & Caribbean (excluding high income),2011,10.2991774997074
+TLA,Latin America & the Caribbean (IDA & IBRD countries),2024,11.3503761140369
+TLA,Latin America & the Caribbean (IDA & IBRD countries),2011,10.2683541947253
+LDC,Least developed countries: UN classification,2024,7.85618712816249
+LDC,Least developed countries: UN classification,2011,5.65948999251373
+LMY,Low & middle income,2024,11.0570304726836
+LMY,Low & middle income,2011,8.18526604626397
+,Low income,2024,7.13030769158445
+,Low income,2011,4.99261482484382
+,Lower middle income,2024,11.5365290109666
+,Lower middle income,2011,8.40320109225212
+MEA,"Middle East, North Africa, Afghanistan & Pakistan",2024,20.136911070149
+MEA,"Middle East, North Africa, Afghanistan & Pakistan",2011,10.7225516736037
+MNA,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",2024,20.0769514378744
+MNA,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",2011,10.1083862462786
+TMN,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",2024,20.1073707745161
+TMN,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",2011,10.1138080664671
+MIC,Middle income,2024,11.4411245608188
+MIC,Middle income,2011,8.43028126507396
+NAC,North America,2024,13.0352603251899
+NAC,North America,2011,9.2978023991404
+OED,OECD members,2024,10.5162075229361
+OED,OECD members,2011,8.08407691450804
+OSS,Other small states,2024,9.72961841247687
+OSS,Other small states,2011,7.88591980897521
+PSS,Pacific island small states,2024,17.0708090275406
+PSS,Pacific island small states,2011,13.4162047389065
+PST,Post-demographic dividend,2024,9.46076364488546
+PST,Post-demographic dividend,2011,7.08857587027415
+PRE,Pre-demographic dividend,2024,6.34544213929058
+PRE,Pre-demographic dividend,2011,4.59383384314183
+SST,Small states,2024,11.3574229239809
+SST,Small states,2011,9.68512946756901
+SAS,South Asia,2024,10.7173486503525
+SAS,South Asia,2011,9.03165942802619
+TSA,South Asia (IDA & IBRD),2024,10.7173486503525
+TSA,South Asia (IDA & IBRD),2011,9.03165942802619
+SSF,Sub-Saharan Africa,2024,5.56067083295313
+SSF,Sub-Saharan Africa,2011,4.51823961177629
+SSA,Sub-Saharan Africa (excluding high income),2024,5.56019579742344
+SSA,Sub-Saharan Africa (excluding high income),2011,4.51722854849666
+TSS,Sub-Saharan Africa (IDA & IBRD countries),2024,5.56067083295312
+TSS,Sub-Saharan Africa (IDA & IBRD countries),2011,4.51823961177629
+,Upper middle income,2024,11.3618644752643
+,Upper middle income,2011,8.45007739457124
+WLD,World,2024,10.7978422879351
+WLD,World,2011,8.14074847164927
+AFG,Afghanistan,2024,11.7
+AFG,Afghanistan,2011,7.6
+ALB,Albania,2024,10.6
+ALB,Albania,2011,2.8
+DZA,Algeria,2024,17.5
+DZA,Algeria,2011,7
+AND,Andorra,2024,10.1
+AND,Andorra,2011,5.4
+AGO,Angola,2024,4.9
+AGO,Angola,2011,2.9
+ATG,Antigua and Barbuda,2024,11.6
+ATG,Antigua and Barbuda,2011,12.5
+ARG,Argentina,2024,14
+ARG,Argentina,2011,5.5
+ARM,Armenia,2024,7.7
+ARM,Armenia,2011,8.5
+ABW,Aruba,2024,4.6
+ABW,Aruba,2011,12.4
+ABW,Aruba,2000,12.1
+AUS,Australia,2024,7.4
+AUS,Australia,2011,6.6
+AUS,Australia,2000,0
+AUT,Austria,2024,5.4
+AUT,Austria,2011,6.6
+AZE,Azerbaijan,2024,10.2
+AZE,Azerbaijan,2011,2.8
+BHS,"Bahamas, The",2024,8.9
+BHS,"Bahamas, The",2011,12.1
+BHR,Bahrain,2024,22.1
+BHR,Bahrain,2011,19.5
+BHR,Bahrain,2000,14.8
+BGD,Bangladesh,2024,13.2
+BGD,Bangladesh,2011,10.5
+BRB,Barbados,2024,13.2
+BRB,Barbados,2011,12.4
+BRB,Barbados,2000,13.2
+BLR,Belarus,2024,5.1
+BLR,Belarus,2011,8
+BEL,Belgium,2024,5.9
+BEL,Belgium,2011,4.8
+BLZ,Belize,2024,14.1
+BLZ,Belize,2011,17
+BEN,Benin,2024,8.1
+BEN,Benin,2011,2
+BMU,Bermuda,2024,13.4
+BMU,Bermuda,2011,12
+BMU,Bermuda,2000,12.1
+BTN,Bhutan,2024,12
+BTN,Bhutan,2011,5.7
+BOL,Bolivia,2024,3.4
+BOL,Bolivia,2011,6.6
+BIH,Bosnia and Herzegovina,2024,10.3
+BIH,Bosnia and Herzegovina,2011,7.5
+BWA,Botswana,2024,4.6
+BWA,Botswana,2011,10.8
+BRA,Brazil,2024,10.6
+BRA,Brazil,2011,10.1
+BRN,Brunei Darussalam,2024,13.7
+BRN,Brunei Darussalam,2011,9.4
+BGR,Bulgaria,2024,7.4
+BGR,Bulgaria,2011,6.7
+BFA,Burkina Faso,2024,4.5
+BFA,Burkina Faso,2011,3
+BDI,Burundi,2024,4.3
+BDI,Burundi,2011,2.7
+CPV,Cabo Verde,2024,6.8
+CPV,Cabo Verde,2011,5.4
+KHM,Cambodia,2024,7.5
+KHM,Cambodia,2011,2.9
+CMR,Cameroon,2024,6.9
+CMR,Cameroon,2011,6.1
+CMR,Cameroon,2000,0
+CAN,Canada,2024,7.7
+CAN,Canada,2011,8.4
+CYM,Cayman Islands,2024,11.1
+CYM,Cayman Islands,2011,12
+CYM,Cayman Islands,2000,12.1
+CAF,Central African Republic,2024,7.6
+CAF,Central African Republic,2011,3.2
+TCD,Chad,2024,7.3
+TCD,Chad,2011,3.9
+CHL,Chile,2024,12.2
+CHL,Chile,2011,9.5
+CHN,China,2024,11.9
+CHN,China,2011,8.8
+COL,Colombia,2024,8.4
+COL,Colombia,2011,9.8
+COM,Comoros,2024,10.8
+COM,Comoros,2011,8.4
+COD,"Congo, Dem. Rep.",2024,7.7
+COD,"Congo, Dem. Rep.",2011,3.1
+COG,"Congo, Rep.",2024,8.1
+COG,"Congo, Rep.",2011,5.5
+CRI,Costa Rica,2024,9.8
+CRI,Costa Rica,2011,9.6
+CIV,Cote d'Ivoire,2024,5
+CIV,Cote d'Ivoire,2011,4.9
+HRV,Croatia,2024,10.5
+HRV,Croatia,2011,5.2
+CUB,Cuba,2024,9.4
+CUB,Cuba,2011,9.4
+CUW,Curacao,2024,13.4
+CYP,Cyprus,2024,10
+CYP,Cyprus,2011,9.3
+CZE,Czechia,2024,7.6
+CZE,Czechia,2011,5.3
+CZE,Czechia,2000,11.7
+DNK,Denmark,2024,6.4
+DNK,Denmark,2011,5.6
+DJI,Djibouti,2024,6.5
+DJI,Djibouti,2011,6.3
+DMA,Dominica,2024,12.9
+DMA,Dominica,2011,8.9
+DOM,Dominican Republic,2024,17.6
+DOM,Dominican Republic,2011,8.1
+ECU,Ecuador,2024,4.9
+ECU,Ecuador,2011,6.6
+EGY,"Egypt, Arab Rep.",2024,22.4
+EGY,"Egypt, Arab Rep.",2011,16.6
+SLV,El Salvador,2024,12.7
+SLV,El Salvador,2011,9.4
+GNQ,Equatorial Guinea,2024,8.2
+GNQ,Equatorial Guinea,2011,4.2
+ERI,Eritrea,2024,4.4
+ERI,Eritrea,2011,3.6
+EST,Estonia,2024,6.9
+EST,Estonia,2011,7
+SWZ,Eswatini,2024,7.9
+SWZ,Eswatini,2011,3.1
+ETH,Ethiopia,2024,4.4
+ETH,Ethiopia,2011,3.4
+FRO,Faroe Islands,2024,5.3
+FJI,Fiji,2024,16.6
+FJI,Fiji,2011,10.9
+FIN,Finland,2024,6.9
+FIN,Finland,2011,5.8
+FRA,France,2024,6.5
+FRA,France,2011,5.4
+PYF,French Polynesia,2024,22.8
+PYF,French Polynesia,2011,8.6
+GAB,Gabon,2024,8.5
+GAB,Gabon,2011,10.3
+GMB,"Gambia, The",2024,5.5
+GMB,"Gambia, The",2011,2
+GEO,Georgia,2024,6.7
+GEO,Georgia,2011,2.8
+DEU,Germany,2024,7.8
+DEU,Germany,2011,5.3
+GHA,Ghana,2024,2.7
+GHA,Ghana,2011,5
+GRC,Greece,2024,8
+GRC,Greece,2011,5.1
+GRL,Greenland,2024,4.3
+GRD,Grenada,2024,11.3
+GRD,Grenada,2011,8.6
+GRD,Grenada,2000,12.1
+GUM,Guam,2024,20.3
+GUM,Guam,2011,8.6
+GTM,Guatemala,2024,13.2
+GTM,Guatemala,2011,9.3
+GIN,Guinea,2024,4.6
+GIN,Guinea,2011,4.4
+GNB,Guinea-Bissau,2024,4.8
+GNB,Guinea-Bissau,2011,3
+GUY,Guyana,2024,16.4
+GUY,Guyana,2011,16.7
+HTI,Haiti,2024,8.5
+HTI,Haiti,2011,6.6
+HND,Honduras,2024,5
+HND,Honduras,2011,6.7
+HKG,"Hong Kong SAR, China",2024,8.2
+HKG,"Hong Kong SAR, China",2011,7.6
+HKG,"Hong Kong SAR, China",2000,12.1
+HUN,Hungary,2024,8.3
+HUN,Hungary,2011,6
+ISL,Iceland,2024,6.9
+ISL,Iceland,2011,3.2
+IND,India,2024,10.5
+IND,India,2011,9
+IDN,Indonesia,2024,11.3
+IDN,Indonesia,2011,5.1
+IRN,"Iran, Islamic Rep.",2024,9
+IRN,"Iran, Islamic Rep.",2011,11.1
+IRQ,Iraq,2024,13.4
+IRQ,Iraq,2011,9.1
+IRL,Ireland,2024,3.6
+IRL,Ireland,2011,5.2
+IMN,Isle of Man,2024,7.5
+ISR,Israel,2024,10.1
+ISR,Israel,2011,7.4
+ITA,Italy,2024,7.7
+ITA,Italy,2011,5.1
+JAM,Jamaica,2024,12.5
+JAM,Jamaica,2011,15.7
+JPN,Japan,2024,8.1
+JPN,Japan,2011,7.7
+JOR,Jordan,2024,20.5
+JOR,Jordan,2011,12.1
+KAZ,Kazakhstan,2024,6.8
+KAZ,Kazakhstan,2011,7.7
+KEN,Kenya,2024,3.1
+KEN,Kenya,2011,5.1
+KIR,Kiribati,2024,24.6
+KIR,Kiribati,2011,25.3
+PRK,"Korea, Dem. People's Rep.",2024,9.9
+PRK,"Korea, Dem. People's Rep.",2011,8.4
+KOR,"Korea, Rep.",2024,9.6
+KOR,"Korea, Rep.",2011,7.5
+XKX,Kosovo,2024,10.4
+KWT,Kuwait,2024,25.6
+KWT,Kuwait,2011,20.7
+KGZ,Kyrgyz Republic,2024,7.6
+KGZ,Kyrgyz Republic,2011,6.3
+LAO,Lao PDR,2024,6.7
+LAO,Lao PDR,2011,3.3
+LVA,Latvia,2024,7.1
+LVA,Latvia,2011,7.8
+LBN,Lebanon,2024,12.3
+LBN,Lebanon,2011,19.6
+LSO,Lesotho,2024,6.2
+LSO,Lesotho,2011,3.4
+LBR,Liberia,2024,9.2
+LBR,Liberia,2011,3.3
+LBY,Libya,2024,15.8
+LBY,Libya,2011,13.8
+LIE,Liechtenstein,2024,7.2
+LIE,Liechtenstein,2011,4.7
+LTU,Lithuania,2024,7.5
+LTU,Lithuania,2011,7.8
+LUX,Luxembourg,2024,5.8
+LUX,Luxembourg,2011,4.5
+MAC,"Macao SAR, China",2024,8.1
+MAC,"Macao SAR, China",2011,7.2
+MDG,Madagascar,2024,4.6
+MDG,Madagascar,2011,4.7
+MWI,Malawi,2024,5.7
+MWI,Malawi,2011,5.6
+MYS,Malaysia,2024,21.1
+MYS,Malaysia,2011,12.1
+MDV,Maldives,2024,9.5
+MDV,Maldives,2011,9.2
+MLI,Mali,2024,4.8
+MLI,Mali,2011,1.9
+MLT,Malta,2024,10
+MLT,Malta,2011,6.6
+MHL,Marshall Islands,2024,25.7
+MHL,Marshall Islands,2011,21.8
+MRT,Mauritania,2024,5.2
+MRT,Mauritania,2011,4.3
+MUS,Mauritius,2024,20.1
+MUS,Mauritius,2011,14.8
+MUS,Mauritius,2000,15
+MEX,Mexico,2024,16.4
+MEX,Mexico,2011,15.6
+MEX,Mexico,2000,14.2
+FSM,"Micronesia, Fed. Sts.",2024,19.2
+FSM,"Micronesia, Fed. Sts.",2011,15.7
+MDA,Moldova,2024,6.3
+MDA,Moldova,2011,2.7
+MCO,Monaco,2024,6.9
+MCO,Monaco,2011,5.6
+MNG,Mongolia,2024,10.3
+MNG,Mongolia,2011,7.1
+MNE,Montenegro,2024,10.7
+MNE,Montenegro,2011,7.7
+MAR,Morocco,2024,11.9
+MAR,Morocco,2011,6.8
+MOZ,Mozambique,2024,3
+MOZ,Mozambique,2011,3.1
+MMR,Myanmar,2024,6.7
+MMR,Myanmar,2011,7.1
+NAM,Namibia,2024,5.3
+NAM,Namibia,2011,7.8
+NRU,Naoero,2024,21.8
+NRU,Naoero,2011,20.4
+NPL,Nepal,2024,7.7
+NPL,Nepal,2011,3.6
+NLD,Netherlands,2024,5
+NLD,Netherlands,2011,5.3
+NCL,New Caledonia,2024,22
+NCL,New Caledonia,2011,8.6
+NZL,New Zealand,2024,6.7
+NZL,New Zealand,2011,8.6
+NIC,Nicaragua,2024,10.4
+NIC,Nicaragua,2011,11
+NER,Niger,2024,4.1
+NER,Niger,2011,4.2
+NGA,Nigeria,2024,3
+NGA,Nigeria,2011,4.8
+MKD,North Macedonia,2024,7.4
+MKD,North Macedonia,2011,7.7
+NOR,Norway,2024,4.8
+NOR,Norway,2011,4.7
+OMN,Oman,2024,17
+OMN,Oman,2011,10.5
+PAK,Pakistan,2024,31.4
+PAK,Pakistan,2011,7.9
+PAK,Pakistan,2000,11.8
+PLW,Palau,2024,19.3
+PLW,Palau,2011,11.1
+PAN,Panama,2024,11.1
+PAN,Panama,2011,9.4
+PNG,Papua New Guinea,2024,14.1
+PNG,Papua New Guinea,2011,7.6
+PNG,Papua New Guinea,2000,15.5
+PRY,Paraguay,2024,9.4
+PRY,Paraguay,2011,6.5
+PER,Peru,2024,6.4
+PER,Peru,2011,6
+PHL,Philippines,2024,7.5
+PHL,Philippines,2011,9.7
+POL,Poland,2024,8.1
+POL,Poland,2011,9
+PRT,Portugal,2024,10.5
+PRT,Portugal,2011,9.6
+PRI,Puerto Rico (US),2024,10.9
+PRI,Puerto Rico (US),2011,13
+QAT,Qatar,2024,24.6
+QAT,Qatar,2011,19.8
+ROU,Romania,2024,7.5
+ROU,Romania,2011,7.7
+RUS,Russian Federation,2024,5.9
+RUS,Russian Federation,2011,9.7
+RWA,Rwanda,2024,2.1
+RWA,Rwanda,2011,3.1
+WSM,Samoa,2024,25.4
+WSM,Samoa,2011,7.7
+SMR,San Marino,2024,8.6
+SMR,San Marino,2011,5.5
+STP,Sao Tome and Principe,2024,12.1
+STP,Sao Tome and Principe,2011,5.5
+SAU,Saudi Arabia,2024,23.1
+SAU,Saudi Arabia,2011,19.6
+SEN,Senegal,2024,3.8
+SEN,Senegal,2011,3.2
+SRB,Serbia,2024,10.5
+SRB,Serbia,2011,7.7
+SYC,Seychelles,2024,9.3
+SYC,Seychelles,2011,12.1
+SLE,Sierra Leone,2024,4.8
+SLE,Sierra Leone,2011,3.2
+SGP,Singapore,2024,11.4
+SGP,Singapore,2011,9.5
+SVK,Slovak Republic,2024,7.1
+SVK,Slovak Republic,2011,5.7
+SVN,Slovenia,2024,7
+SVN,Slovenia,2011,7.5
+SLB,Solomon Islands,2024,12
+SLB,Solomon Islands,2011,15.3
+SOM,"Somalia, Fed. Rep.",2024,5.8
+SOM,"Somalia, Fed. Rep.",2011,4.3
+ZAF,South Africa,2024,7.2
+ZAF,South Africa,2011,7
+SSD,South Sudan,2024,4.6
+ESP,Spain,2024,9.7
+ESP,Spain,2011,6.3
+LKA,Sri Lanka,2024,10.2
+LKA,Sri Lanka,2011,7.5
+KNA,St. Kitts and Nevis,2024,13.8
+KNA,St. Kitts and Nevis,2011,8.5
+KNA,St. Kitts and Nevis,2000,12.1
+LCA,St. Lucia,2024,11.4
+LCA,St. Lucia,2011,8.4
+VCT,St. Vincent and the Grenadines,2024,8.6
+VCT,St. Vincent and the Grenadines,2011,8.8
+SDN,Sudan,2024,19
+SDN,Sudan,2011,8.6
+SUR,Suriname,2024,13.8
+SUR,Suriname,2011,8.9
+SWE,Sweden,2024,5.8
+SWE,Sweden,2011,4.2
+CHE,Switzerland,2024,5.3
+CHE,Switzerland,2011,5.9
+SYR,Syrian Arab Republic,2024,19
+SYR,Syrian Arab Republic,2011,9.9
+TJK,Tajikistan,2024,8
+TJK,Tajikistan,2011,6.3
+TZA,Tanzania,2024,9.8
+TZA,Tanzania,2011,2.8
+THA,Thailand,2024,10.2
+THA,Thailand,2011,7.5
+TLS,Timor-Leste,2024,3.2
+TLS,Timor-Leste,2011,7.5
+TGO,Togo,2024,4.8
+TGO,Togo,2011,3.3
+TON,Tonga,2024,19.6
+TON,Tonga,2011,12.7
+TON,Tonga,2000,11.5
+TTO,Trinidad and Tobago,2024,12.4
+TTO,Trinidad and Tobago,2011,12.7
+TTO,Trinidad and Tobago,2000,14.1
+TUN,Tunisia,2024,16
+TUN,Tunisia,2011,9.5
+TUR,Turkiye,2024,16.5
+TUR,Turkiye,2011,7.9
+TKM,Turkmenistan,2024,7.1
+TKM,Turkmenistan,2011,2.7
+TUV,Tuvalu,2024,19
+TUV,Tuvalu,2011,19.2
+UGA,Uganda,2024,2.2
+UGA,Uganda,2011,2.8
+UKR,Ukraine,2024,6
+UKR,Ukraine,2011,2.9
+ARE,United Arab Emirates,2024,20.7
+ARE,United Arab Emirates,2011,18.8
+GBR,United Kingdom,2024,7.4
+GBR,United Kingdom,2011,5.2
+USA,United States,2024,13.7
+USA,United States,2011,9.4
+URY,Uruguay,2024,7.8
+URY,Uruguay,2011,5.7
+UZB,Uzbekistan,2024,7.5
+UZB,Uzbekistan,2011,6.4
+VUT,Vanuatu,2024,19.7
+VUT,Vanuatu,2011,16.1
+VEN,"Venezuela, RB",2024,8.6
+VEN,"Venezuela, RB",2011,10.2
+VNM,Viet Nam,2024,3.4
+VNM,Viet Nam,2011,3.2
+VIR,Virgin Islands (U.S.),2024,9.1
+VIR,Virgin Islands (U.S.),2011,12.1
+PSE,West Bank and Gaza,2024,15.5
+PSE,West Bank and Gaza,2011,9.2
+YEM,"Yemen, Rep.",2024,5.5
+YEM,"Yemen, Rep.",2011,9.6
+ZMB,Zambia,2024,10.3
+ZMB,Zambia,2011,4.8
+ZWE,Zimbabwe,2024,1.5
+ZWE,Zimbabwe,2011,9.8
